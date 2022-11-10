@@ -10,8 +10,8 @@ FROM alpine:latest
 
 WORKDIR /root/
 
-COPY --from=0 /github.com/Squidward-mv/PocketBot/bin/ .
-COPY --from=0 /github.com/Squidward-mv/PocketBot/bin/ configs/
+COPY --from=0 /github.com/Vlvdik/go-pocket-bot/bin/ .
+COPY --from=0 /github.com/Vlvdik/go-pocket-bot/bin/ configs/
 
 EXPOSE 80
 
