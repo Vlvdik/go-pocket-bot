@@ -1,4 +1,5 @@
-# **Go-pocket-bot** - this is the MVP of a client-server application implemented as a telegram bot ![GitHub](https://img.shields.io/github/license/Vlvdik/go-pocket-bot?style=plastic)
+# ![GitHub](https://img.shields.io/github/license/Vlvdik/go-pocket-bot?style=plastic)
+# **Go-pocket-bot** - this is the MVP of a client-server application implemented as a telegram bot 
 ## The app allows you to save your bookmarks in the pocket  
 ---
 # Installation
