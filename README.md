@@ -45,8 +45,8 @@ messages:
 # Using
 ---
 
-### 1) Create your telegram bot (![BotFather](https://t.me/BotFather) wiil help you) and get access token
-### 2) Register for the ![Pocket](https://getpocket.com/) service and get access token for Pocket API *(if you haven't done it before)*
+### 1) Create your telegram bot ([BotFather](https://t.me/BotFather) wiil help you) and get access token
+### 2) Register for the [Pocket](https://getpocket.com/) service and get access token for Pocket API *(if you haven't done it before)*
 ### 3) Go to the bot you created and go through the authentication process on the pocket site
 
 ---
