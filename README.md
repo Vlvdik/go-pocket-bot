@@ -1,5 +1,5 @@
-# **Go-pocket-bot** - это MVP клиент-серверного приложения, реализованное в виде telegram бота
-## Приложение позволяет вам сохранять закладки в сервисе pocket 
+# **Go-pocket-bot** - this is the MVP of a client-server application implemented as a telegram bot ![GitHub](https://img.shields.io/github/license/Vlvdik/go-pocket-bot?style=plastic)
+## The app allows you to save your bookmarks in the pocket  
 ---
 # Installation
 ---
@@ -44,8 +44,8 @@ messages:
 # Using
 ---
 
-### 1) Create your telegram bot (BotFather wiil help you) and get access token
-### 2) Register for the ![Pocket](https://getpocket.com/) service *(if you haven't done it before)*
+### 1) Create your telegram bot (![BotFather](https://t.me/BotFather) wiil help you) and get access token
+### 2) Register for the ![Pocket](https://getpocket.com/) service and get access token for Pocket API *(if you haven't done it before)*
 ### 3) Go to the bot you created and go through the authentication process on the pocket site
 
 ---
