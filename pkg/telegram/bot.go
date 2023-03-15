@@ -56,5 +56,5 @@ func (b *Bot) initUpdatesChannel() (tgbotapi.UpdatesChannel, error){
 	u := tgbotapi.NewUpdate(0)
 	u.Timeout = 60
 
-	return b.bot.GetUpdatesChan(u)
+	return b.bot.GetUpdatesChan(u), nil
 }
